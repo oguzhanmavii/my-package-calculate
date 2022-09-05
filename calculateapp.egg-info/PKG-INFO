@@ -1,6 +1,7 @@
 Metadata-Version: 2.1
 Name: calculateapp
 Version: 0.1
-Summary: bu paket test etmek icin kuruldu
+Summary: bu paket test etmek icin kurulmus bir hesap makinesidir
+Home-page: https://github.com/oguzhanmavii/my-package-calculate
 Author: Oguzhan Mavi
 Author-email: oguzhanmavii98@gmail.com
